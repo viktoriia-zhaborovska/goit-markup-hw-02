@@ -14,15 +14,12 @@ ul {
 .logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
+  font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
   text-decoration: none;
-}
-
-.logo .header-logo {
-  font-weight: 700px;
 }
 
 .header-logo .logo-part {
@@ -66,7 +63,7 @@ ul {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
-  letter-spacing: 0.02em
+  letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
 }
@@ -156,10 +153,6 @@ ul {
 
 .footer {
   background-color: #2e2f42;
-}
-
-.logo .footer-logo {
-  font-weight: 700px;
 }
 
 .footer-logo .logo-part {
